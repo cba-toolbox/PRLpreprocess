@@ -1,11 +1,10 @@
-Package: probabilisticReversalLearningPreprocess
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: PRLpreprocess
+Title: PRLpreprocess: Preprocessing of Probabilistic Reversal Learning Data
+Version: 0.0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Yoshihiko", "Kunisato", , "ykunisato@psy.senshu-u.ac.jp", role = c("aut", "cre"))
+Description: PRL_preprocess reads a CSV file from a Probabilistic Reversal Learning (PRL) task as input and preprocesses it to extract relevant data for analysis.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
