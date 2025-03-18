@@ -1,6 +1,6 @@
 Package: PRLpreprocess
 Title: PRLpreprocess: Preprocessing of Probabilistic Reversal Learning Data
-Version: 0.0.0.1
+Version: 0.1.0.0
 Authors@R: 
     person("Yoshihiko", "Kunisato", , "ykunisato@psy.senshu-u.ac.jp", role = c("aut", "cre"))
 Description: PRL_preprocess reads a CSV file from a Probabilistic Reversal Learning (PRL) task as input and preprocesses it to extract relevant data for analysis.
